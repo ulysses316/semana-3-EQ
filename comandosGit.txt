@@ -1,0 +1,8 @@
+git config --global user.name username 
+git config --global user.email email     /*Informarcion para git*/
+
+git add .  /*Registrar los cambios que llevamos*/
+git commit -m "mensaje"  /*Ponerle un mensaje a los cambios registrados*/
+
+git remote add origin url  /*Asignarlo a nuestro repositorio en github*/
+git push origin master     /*Subir los registros a Github*/

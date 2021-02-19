@@ -1,0 +1,14 @@
+body{
+  height: 200vh;
+}
+
+.parralax{
+  background-image: url("https://picsum.photos/200/300");
+
+  height: 80vh;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
